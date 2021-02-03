@@ -3,3 +3,8 @@ A hw practice from react native as frontend and firebase as backend for a list w
 
 # use a tuturial from udemy to learn a react native basics and perform small modification for it
 # later combine it with firebase to build an app for a list with crud functionality
+
+
+# practice basics for react native
+
+# add other files for preparation for list construction
