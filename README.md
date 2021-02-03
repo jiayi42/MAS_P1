@@ -5,6 +5,6 @@ A hw practice from react native as frontend and firebase as backend for a list w
 # later combine it with firebase to build an app for a list with crud functionality
 
 # step1
-## practice basics for react native
+## practice basics for react native (Rukai)
 
-## add other files for preparation for list construction
+## add other files for preparation for list construction (Mingying, Rukai)
