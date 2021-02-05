@@ -8,3 +8,7 @@ A hw practice from react native as frontend and firebase as backend for a list w
 ## practice basics for react native (Rukai)
 
 ## add other files for preparation for list construction (Mingying, Rukai)
+
+# step2
+
+## add the list with crud functionality and prepare the api from firebase db (Mingying, Rukai)
