@@ -19,12 +19,12 @@ A hw practice from react native as frontend and firebase as backend for a list w
 
 # deploy
 
-## add config.js to this repo in your local computer (please see the file on convas or email me to request config.js with sensitive keys)
-## open your terminal and go to the repo directory
-## npm install (this will take within 3-5 minutes)
-## expo start (you should had installed expo cli beforehand for react native development)
-## you will see your browser open one page for you to maintain the app
-## turn mode to tunnel
-## your camera in your ios to scan QR code on the page (I play it on my iPhone 11 and I install expo go first)
-## it will take about one minute to deploy
-## enjoy our first react native tutorial combined with firebase!! :)
+## 1. add config.js to this repo in your local computer (please see the file on convas or email me to request config.js with sensitive keys)
+## 2. open your terminal and go to the repo directory
+## 3. % npm install (this will take within 3-5 minutes)
+## 4. % expo start (you should had installed expo cli beforehand for react native development)
+## 5. you will see your browser open one page for you to maintain the app
+## 6. turn mode to tunnel
+## 7. your camera in your ios to scan QR code on the page (I play it on my iPhone 11 and I install and register Expo Go beforehand)
+## 8. it will take about one minute to deploy on your ios
+## 9. enjoy our first react native tutorial combined with firebase!! :)
